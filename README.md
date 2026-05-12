@@ -90,6 +90,6 @@ This project is designed as a learning exercise for:
 
 ---
 
-## 📄 License
+## 📜 License
 
 MIT © RDProject
