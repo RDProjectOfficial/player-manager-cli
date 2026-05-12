@@ -35,24 +35,18 @@ A simple C# console application for managing a list of players with basic CRUD-l
 Players are stored in a simple semicolon-separated format:
 
 ```
-
 Id;Name;Gender
-
 ```
 
 Example:
 ```
-
 1;John;male
 2;Anna;female
-
 ```
 
 Stored in:
 ```
-
 players.yml
-
 ```
 
 > ⚠️ Note: This is a custom format, not strict YAML.
